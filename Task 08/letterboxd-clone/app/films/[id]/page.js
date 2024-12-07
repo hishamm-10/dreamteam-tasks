@@ -1,6 +1,6 @@
-"use client";  // This marks the component as a Client Component
+"use client";  
 
-import React from 'react'; // Import React for useState and useEffect
+import React from 'react'; 
 
 const films = [
   { id: 1, title: "Inception", poster: "/images/inception.jpg", description: "A mind-bending thriller about dreams.", reviews: [
@@ -66,15 +66,15 @@ const films = [
 ];
 
 export default function FilmDetailPage({ params }) {
-  // Unwrap the params using React.use()
-  const { id } = React.use(params); // Get the dynamic id from the URL
-  const film = films.find((f) => f.id === parseInt(id)); // Find the film with the matching id
+  
+  const { id } = React.use(params); 
+  const film = films.find((f) => f.id === parseInt(id)); 
 
   if (!film) {
     return <div>Film not found</div>;
   }
 
-  // Helper function to render stars
+  
   const renderStars = (rating) => {
     const fullStars = Math.floor(rating);
     const halfStars = rating % 1 >= 0.5 ? 1 : 0;

@@ -1,9 +1,9 @@
 "use client"; // Ensures this is treated as a client-side component
 
-import { usePathname } from "next/navigation"; // Using pathname for dynamic routing
+import { usePathname } from "next/navigation"; 
 import { useState, useEffect } from "react";
 
-// Sample member details
+
 const memberDetails = {
   1: {
     name: "Sam Rosenberg",
@@ -60,22 +60,22 @@ const memberDetails = {
       { title: "Parasite", rating: 5, review: "A social commentary masterpiece." },
     ],
   },
-  // Add more members here
+  
 };
 
 export default function MemberDetail() {
-  const pathname = usePathname(); // Get current pathname
-  const id = pathname.split("/").pop(); // Extract id from pathname
+  const pathname = usePathname(); 
+  const id = pathname.split("/").pop();
   const [member, setMember] = useState(null);
 
   useEffect(() => {
     if (id) {
       setMember(memberDetails[id]);
     }
-  }, [id]); // Run effect when 'id' changes
+  }, [id]);
 
   if (!member) {
-    return <div>Loading...</div>; // Show loading state until member data is available
+    return <div>Loading...</div>; 
   }
 
   return (

@@ -1,4 +1,4 @@
-"use client"; // Ensures this is treated as a client component
+"use client"; 
 
 import Link from "next/link";
 
@@ -38,7 +38,7 @@ const featuredMembers = [
     image: "/images/somebro5.jpg",
     films: ["/images/avatar.jpg", "/images/killers.jpg", "/images/arrival.jpg"],
   },
-  // Add more members here
+  
 ];
 
 const reviewers = [
