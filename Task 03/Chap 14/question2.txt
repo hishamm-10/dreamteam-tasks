@@ -1,0 +1,3 @@
+EZSheets has two main types of objects:
+ Spreadsheet object: Represents a Google Sheets spreadsheet. 
+ Sheet object: Represents an individual sheet (tab) within a spreadsheet. 

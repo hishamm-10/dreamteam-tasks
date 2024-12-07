@@ -1,0 +1,1 @@
+You can hide a column by setting its hidden attribute to True.

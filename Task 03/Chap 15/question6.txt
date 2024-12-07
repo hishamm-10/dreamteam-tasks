@@ -1,0 +1,1 @@
+o rotate a page, you can use the rotateClockwise() or rotateCounterClockwise() methods.

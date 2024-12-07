@@ -1,0 +1,1 @@
+The openpyxl.load_workbook() function returns a Workbook object.

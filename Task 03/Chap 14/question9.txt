@@ -1,0 +1,2 @@
+To create a new Spreadsheet object, we use the create() function
+To create a new Sheet object, we  use the addSheet() method on the Spreadsheet object.

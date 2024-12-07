@@ -1,0 +1,2 @@
+The sheet.max_column and sheet.max_row attributes represent the maximum number of columns and rows in the sheet that contain data. 
+Both attributes are integers.

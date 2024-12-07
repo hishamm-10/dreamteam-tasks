@@ -1,0 +1,6 @@
+Word documents use integers to represent heading levels:
+
+1: Represents the top-level heading (Heading 1).
+2: Represents the second level heading (Heading 2).
+3: Represents the third level heading (Heading 3).
+And so on, up to 9 (Heading 9).

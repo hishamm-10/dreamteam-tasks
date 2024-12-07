@@ -1,0 +1,1 @@
+We can obtain Page objects from an encrypted PDF, you must decrypt it using the password.Calling the decrypt() method with the password.

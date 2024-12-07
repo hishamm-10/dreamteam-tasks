@@ -1,0 +1,1 @@
+If you exceed your Google account’s quota by making frequent read and write requests, you will encounter a quota limit error.

@@ -1,0 +1,4 @@
+Selenium: Automates browsers for tasks like clicking, typing, or scraping dynamic pages with JavaScript.
+Requests: Downloads content from static pages quickly using HTTP methods like GET and POST.
+BeautifulSoup: Parses and extracts data from HTML or XML; works best with static content from Requests.
+webbrowser: Opens URLs in your default browser; good for simple tasks, not for scraping or automation.

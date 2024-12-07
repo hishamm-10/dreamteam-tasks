@@ -1,0 +1,1 @@
+To delete a spreadsheet, use the delete() method on the Spreadsheet object.The deletion is permanent.

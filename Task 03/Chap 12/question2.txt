@@ -1,0 +1,1 @@
+response object,we use /response.text/ or /response.content/

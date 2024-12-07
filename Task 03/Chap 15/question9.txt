@@ -1,0 +1,1 @@
+You can access the paragraphs in a Word document using the paragraphs attribute of the Document object

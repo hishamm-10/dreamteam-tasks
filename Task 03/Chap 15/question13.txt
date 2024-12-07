@@ -1,0 +1,1 @@
+We can add a new paragraph using the add_paragraph() method.

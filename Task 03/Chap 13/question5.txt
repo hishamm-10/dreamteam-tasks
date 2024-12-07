@@ -1,0 +1,1 @@
+To retrieve the value in cell C5, you can access it using sheet['C5'].value

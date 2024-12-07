@@ -1,0 +1,5 @@
+The openpyxl library does not evaluate formulas itself. To retrieve the result of a formula, you would need to either:
+
+Use Excel to open and evaluate the file, or
+Use a library such as xlwings or a tool like openpyxl in combination with an Excel environment that can evaluate the formulas.
+In openpyxl, if you access a cell with a formula, it will return the formula itself unless Excel evaluates it.

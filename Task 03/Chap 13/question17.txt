@@ -1,0 +1,2 @@
+A freeze pane is a feature in Excel that keeps a specific row or column visible while you scroll through the rest of the sheet. 
+This is useful for keeping headers in view. In openpyxl, you can freeze panes by setting the freeze_panes attribute on the sheet.

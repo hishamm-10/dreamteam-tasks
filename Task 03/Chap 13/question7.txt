@@ -1,0 +1,1 @@
+To retrieve the row and column of a cell as integers, you can use the .row and .column attributes

@@ -1,0 +1,2 @@
+Paragraph object: Represents a single paragraph in a Word document and contains one or more Run objects.
+Run object: Represents a segment of text within a paragraph that shares the same formatting (bold, italic, etc.)

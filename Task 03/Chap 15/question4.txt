@@ -1,0 +1,1 @@
+The getNumPages() method returns the number of pages in the PDF document

@@ -1,0 +1,1 @@
+To find the number of rows and columns in a sheet, you can use the getRows() and getColumns() methods.

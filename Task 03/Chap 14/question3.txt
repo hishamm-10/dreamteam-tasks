@@ -1,0 +1,1 @@
+By using export a Google Sheet as an Excel file using the export() method provided by the EZSheets library.
