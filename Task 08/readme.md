@@ -53,8 +53,8 @@ This project was a fun and challenging experience. Completing the frontend of th
 ### 🙌 Thank You!  
 I hope you enjoy exploring the project. Feedback is always welcome! 😊  
 
-    ![image](https://github.com/user-attachments/assets/2d6a9f6b-ddd3-4a21-a8ce-907e402b200b)
-    ![image](https://github.com/user-attachments/assets/2940eda0-3b19-462f-bd6b-dadaf8a033cc)
+   ![image](https://github.com/user-attachments/assets/2d6a9f6b-ddd3-4a21-a8ce-907e402b200b)
+   ![image](https://github.com/user-attachments/assets/2940eda0-3b19-462f-bd6b-dadaf8a033cc)
 
 
     
