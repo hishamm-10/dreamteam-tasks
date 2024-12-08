@@ -53,8 +53,8 @@ This project was a fun and challenging experience. Completing the frontend of th
 ### 🙌 Thank You!  
 I hope you enjoy exploring the project. Feedback is always welcome! 😊  
 
-   ![image](https://github.com/user-attachments/assets/2d6a9f6b-ddd3-4a21-a8ce-907e402b200b)
-   ![image](https://github.com/user-attachments/assets/2940eda0-3b19-462f-bd6b-dadaf8a033cc)
+![Recording2024-12-08231837-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f116a2b9-9a05-4fe0-8ab6-971fb88e41dd)
+
 
 
     
