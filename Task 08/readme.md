@@ -54,9 +54,9 @@ This project was a fun and challenging experience. Completing the frontend of th
 I hope you enjoy exploring the project. Feedback is always welcome! 😊  
 
    
-![gif to be played](frontend.gif)
+
+![frontend](https://github.com/user-attachments/assets/8e19e100-1010-4f43-9e4d-636e1ca34799)
 
 
 
-   ![frontend](https://github.com/user-attachments/assets/4f19b98b-1743-4400-af60-e9239599c981)
-
+   
