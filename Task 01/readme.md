@@ -1,0 +1,4 @@
+Bandit: For each banit level I went through commands to be used and i refered google to understand the use of these linux commands, The fisrt few tasks we easy for me as by seeing the list of things present in the directory and looking at commands to be used gives me an idea to solve it...while at some levels I was confused and it consumed most of my time..for few levels I went through the writeups inorder to solve it. The Bandit task was Challenging and Time consuming for me. The Blog contains all the approach i have used to get the password.
+
+Git Exercises : The Git Exercises was actually interesting and while learning about Git to solve each level its various other uses and properties  made me realise how good and useful the git is.
+ 
