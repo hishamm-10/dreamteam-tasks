@@ -1,6 +1,6 @@
 ## 🛠️ Backend Development Task  
 
-This task was a **challenging yet rewarding** experience that deepened my understanding of backend development. I explored **Flask tutorials** and followed step-by-step guides to successfully complete the task, using AI-generated code for specific parts of the implementation.  
+This task was a **challenging yet rewarding** experience that deepened my understanding of backend development. I explored **Flask tutorials** and followed step-by-step guides to successfully complete the task.  
 
 ---
 
@@ -14,7 +14,6 @@ This task was a **challenging yet rewarding** experience that deepened my unders
 ### Approach and Learning  
 - **Flask Framework**: Learned how to build and structure a backend using Flask.  
 - **HTTP Requests**: Gained knowledge about different types of requests (e.g., GET, POST) and how they interact with a backend.  
-- **AI Assistance**: Leveraged AI tools to generate code snippets and debug issues effectively.  
 - **Postman for Testing**: Used Postman to validate API endpoints and ensure proper handling of requests.  
 
 ---
