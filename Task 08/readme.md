@@ -55,8 +55,6 @@ I hope you enjoy exploring the project. Feedback is always welcome! 😊
 
    
 
-![frontend](https://github.com/user-attachments/assets/8e19e100-1010-4f43-9e4d-636e1ca34799)
-
-
+      ![frontend](https://github.com/user-attachments/assets/6fa095da-3900-4320-9c19-4afd9a111f47)
 
    
