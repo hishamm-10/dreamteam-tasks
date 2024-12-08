@@ -53,8 +53,22 @@ This project was a fun and challenging experience. Completing the frontend of th
 ### 🙌 Thank You!  
 I hope you enjoy exploring the project. Feedback is always welcome! 😊  
 
+![image](https://github.com/user-attachments/assets/bd09cb03-fa63-4b7a-9674-01939dda54d4)
+![image](https://github.com/user-attachments/assets/45729067-a1ca-4b2f-934a-e1747bfdbcdd)
+![image](https://github.com/user-attachments/assets/c6d429e2-4f96-4654-8311-24de7aae9e77)
+![image](https://github.com/user-attachments/assets/4331994d-5f26-4115-9278-7e8d0b858a7d)
+![image](https://github.com/user-attachments/assets/2f6272f8-80bf-4320-b4f5-add4a4e3e02b)
+
+![image](https://github.com/user-attachments/assets/2a2b81fd-0153-46b5-acb1-3ae6f0637e2e)
+![image](https://github.com/user-attachments/assets/c2436b5b-f503-4fff-b168-a38b8465da9e)
+
+
+
+
+
+
+
    
 
-      ![frontend](https://github.com/user-attachments/assets/6fa095da-3900-4320-9c19-4afd9a111f47)
-
+     
    
